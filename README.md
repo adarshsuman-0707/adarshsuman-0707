@@ -1,7 +1,11 @@
 # 💫 About Me:
-i'm currently working on Madhya pradesh state electronic development corporation<br>on Graduate Engineer Role . i am working as Full Stack Dotentet Developer<br>I Have Skill C#, Java , ASP DotNet , Mern STack<br>i complete my btech computer science degree by 8.51 Cgpa  <br>
-
-
+About Me
+I am currently working at Madhya Pradesh State Electronic Development Corporation (MPSEDC) as a Graduate Engineer. I work as a Full-Stack .NET Developer, where I am involved in designing, developing, and maintaining scalable web applications.
+<br>
+I have strong hands-on experience with C#, Java, ASP.NET, and the MERN Stack, and I enjoy building efficient backend systems along with user-friendly frontends.
+<br>
+I completed my B.Tech in Computer Science Engineering with a CGPA of 8.51, which reflects my strong academic foundation and problem-solving skills. I am always eager to learn new technologies and take on challenging projects that help me grow as a software engineer.
+<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adarsh.suman.3532) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@adasrhsuman4832) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshsumanemail@gmail.com) 
 
